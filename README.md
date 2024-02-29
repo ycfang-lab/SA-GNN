@@ -4,17 +4,12 @@
 ├── dataset
 ├── evaluation
 ├── framework.png
-├── __init__.py
 ├── LICENSE
-├── main.py
-├── modules
-├── old_README.md
 ├── preprocess
 ├── README.md
-├── seq_scripts.py
-├── slr_network.py
+├── requirements.txt
 ├── software
-├── utils
+├── stgcn
 └── work_dir
 ```
 
