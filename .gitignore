@@ -1,0 +1,16 @@
+__pycache__/
+
+/*
+!preprocess
+!.gitignore
+!/configs
+!/dataset
+!/evaluation
+!/stgcn
+!old_README.md
+!/work_dir
+!/*.py
+!LICENSE
+!software
+!README.md
+!requirements.txt

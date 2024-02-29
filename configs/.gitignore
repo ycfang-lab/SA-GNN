@@ -1,0 +1,5 @@
+*
+!.gitignore
+!baseline.yaml
+!phoenix14.yaml
+!stgcn_Bn_VAC_au_CCE10_W5.yaml
